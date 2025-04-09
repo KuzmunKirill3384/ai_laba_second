@@ -16,11 +16,17 @@
 
 ## Структура проекта
 ├── text_download.py # Загрузка текстов с Project Gutenberg
+|
 ├── text_preprocessing.py # Предобработка текста (токенизация)
+|
 ├── Word2Vec.py # Основная реализация Word2Vec
+|
 ├── main.py # Обучение модели
+|
 ├── word2vec_model_d100.py # Пример использования обученной модели
+|
 ├── requirements.txt # Зависимости Python
+|
 └── install_dependencies.py # Скрипт установки зависимостей
 
 ## Использование
