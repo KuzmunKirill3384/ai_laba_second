@@ -36,10 +36,6 @@
 
 |
 
-├── requirements.txt # Зависимости Python
-
-|
-
 └── install_dependencies.py # Скрипт установки зависимостей
 
 ## Использование
